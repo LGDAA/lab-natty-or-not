@@ -5,6 +5,7 @@ Utilizando Inteligência Artificial, foi criada uma imagem para que se pareça f
 
 ## 🤖 Tecnologias Utilizadas
 -Designer Microsoft (Image Generator)
+-Leonardo IA
 
 ## 🧐 Processo de Criação
 Abri o Designer Microsoft, pensei em um cenário fictício e escrevi na barra de geração de imagens
